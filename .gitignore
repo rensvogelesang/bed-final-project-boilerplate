@@ -1,2 +1,9 @@
 node_modules
-.vscode
+.env
+.env.save
+dev.db
+prisma-test.mjs
+test-env.js
+express-bookings@1.0.0
+nodemon
+npx
